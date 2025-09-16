@@ -1,7 +1,7 @@
-﻿Year,Entity,Production Allowances Allocated from Methodology in 40 CFR 84.9 (MTEVe)
-2025,Arkema,26569642
-2025,Chemours,49257822
-2025,Iofina Chemical,1143
-2025,Mexichem Fluor DBA Koura,32857608
-2025,Solstice Advanced Materials US (previously Honeywell International),111508877
-2025,Application-specific allowances,9326172
+﻿Year,Entity,Production Allowances Allocated from Methodology in 40 CFR 84.9 (MTEVe),color
+2025,Arkema,26569642.0,#00e272
+2025,Chemours,49257821.8,#544fc5
+2025,Iofina Chemical,1142.5,#fe6a35
+2025,Mexichem Fluor DBA Koura,32857607.7,#00e272
+2025,Solstice Advanced Materials US (previously Honeywell International),111508876.7,#2caffe
+2025,Application-specific allowances,9326172.3,#d568fb

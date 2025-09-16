@@ -1,51 +1,51 @@
-﻿Year,Entity,Application,Application-Specific Allowances Allocated from Methodology in 40 CFR 84.13 (MTEVe),Available Allowances
-2025,Hitachi High-Tech America,Semiconductors,113.00,113.00
-2025,General Electric,Semiconductors,147.70,147.70
-2025,Medtronic Tempe Campus,Semiconductors,455.10,455.10
-2025,Qorvo Texas,Semiconductors,470.00,470.00
-2025,Magic Leap,Semiconductors,516.90,516.90
-2025,Keysight Technologies,Semiconductors,538.80,538.80
-2025,IBM Corporation,Semiconductors,613.00,613.00
-2025,Renesas Electronics America,Semiconductors,940.10,940.10
-2025,UC San Diego,Semiconductors,940.10,940.10
-2025,ASML US2,Semiconductors,1033.80,1033.80
-2025,X-FAB Texas,Semiconductors,1262.50,1262.50
-2025,Diodes Incorporated,Semiconductors,1410.20,1410.20
-2025,LA Semiconductor,Semiconductors,2067.30,2067.30
-2025,Skyworks Solutions,Semiconductors,2067.60,2067.60
-2025,Applied Materials,Semiconductors,2290.40,2290.40
-2025,Jireh Semiconductor,Semiconductors,2315.50,2315.50
-2025,AstraZeneca Pharmaceuticals,Propellants in MDIs,2677.00,2677.00
-2025,Northrop Grumman Corporation,Semiconductors,2793.60,2793.60
-2025,Tower Semiconductor San Antonio,Semiconductors,3290.40,3290.40
-2025,Newport Fab DBA TowerJazz,Semiconductors,4250.50,4250.50
-2025,Tokyo Electron U.S. Holdings,Semiconductors,5123.90,5123.90
-2025,Defense Technology,Defense Sprays,5297.20,5297.20
-2025,Proteng Distribution,Onboard Aerospace Fire Suppression,6723.40,5378.70
-2025,Microchip Technology,Semiconductors,7387.20,7387.20
-2025,Polar Semiconductor,Semiconductors,9151.70,9151.70
-2025,TSMC Washington (formerly Wafertech),Semiconductors,10384.50,10384.50
-2025,SkyWater Technology,Semiconductors,10463.50,10463.50
-2025,The Research Foundation for The State University of New York at NY CREATES,Semiconductors,11678.40,11678.40
-2025,Wolfspeed,Semiconductors,15779.70,12623.80
-2025,Analog Devices,Semiconductors,15998.90,15998.90
-2025,Compsys,Structural Composite Preformed Polyurethane Foam,16066.00,16066.00
-2025,Lupin,Propellants in MDIs,19031.00,19031.00
-2025,Micron Technology,Semiconductors,21068.20,21068.20
-2025,Aurobindo Pharma USA,Propellants in MDIs,23196.20,23196.20
-2025,NXP Semiconductor,Semiconductors,34081.10,34081.10
-2025,Semiconductor Components Industries DBA ON Semiconductor,Semiconductors,35794.80,35794.80
-2025,Lam Research Corp.,Semiconductors,45436.90,45436.90
-2025,Wabash National Corporation,Structural Composite Preformed Polyurethane Foam,49299.50,49299.50
-2025,Invagen Pharmaceuticals,Propellants in MDIs,59385.20,59385.20
-2025,Security Equipment Corporation,Defense Sprays,93229.50,93229.50
-2025,UDAP Industries,Defense Sprays,110727.80,110727.80
-2025,GlobalFoundries,Semiconductors,117767.10,117767.10
-2025,Taiwan Semiconductor Manufacturing Company Arizona Corporation (TSMC Arizona Corporation),Semiconductors,120485.40,120485.40
-2025,Texas Instruments,Semiconductors,214219.40,214219.40
-2025,Samsung Austin Semiconductor,Semiconductors,235624.80,235624.80
-2025,Armstrong Pharmaceuticals,Propellants in MDIs,237054.00,237054.00
-2025,Kindeva Drug Delivery,Propellants in MDIs,492000.00,492000.00
-2025,GlaxoSmithKline,Propellants in MDIs,507289.70,507289.70
-2025,Intel Corporation,Semiconductors,528200.30,528200.30
-2025,Department of Defense,Mission-critical Military End Uses,6238033.50,6238033.50
+﻿Year,Entity,Application,Application-Specific Allowances Allocated from Methodology in 40 CFR 84.13 (MTEVe),Available Allowances,color
+2025,Hitachi High-Tech America,Semiconductors,113.00,113.00,#126cb6b3
+2025,General Electric,Semiconductors,147.70,147.70,#126cb6b3
+2025,Medtronic Tempe Campus,Semiconductors,455.10,455.10,#126cb6b3
+2025,Qorvo Texas,Semiconductors,470.00,470.00,#126cb6b3
+2025,Magic Leap,Semiconductors,516.90,516.90,#126cb6b3
+2025,Keysight Technologies,Semiconductors,538.80,538.80,#126cb6b3
+2025,IBM Corporation,Semiconductors,613.00,613.00,#126cb6b3
+2025,Renesas Electronics America,Semiconductors,940.10,940.10,#126cb6b3
+2025,UC San Diego,Semiconductors,940.10,940.10,#126cb6b3
+2025,ASML US2,Semiconductors,1033.80,1033.80,#126cb6b3
+2025,X-FAB Texas,Semiconductors,1262.50,1262.50,#126cb6b3
+2025,Diodes Incorporated,Semiconductors,1410.20,1410.20,#126cb6b3
+2025,LA Semiconductor,Semiconductors,2067.30,2067.30,#126cb6b3
+2025,Skyworks Solutions,Semiconductors,2067.60,2067.60,#126cb6b3
+2025,Applied Materials,Semiconductors,2290.40,2290.40,#126cb6b3
+2025,Jireh Semiconductor,Semiconductors,2315.50,2315.50,#126cb6b3
+2025,AstraZeneca Pharmaceuticals,Propellants in MDIs,2677.00,2677.00,#9E5DC0B3
+2025,Northrop Grumman Corporation,Semiconductors,2793.60,2793.60,#126cb6b3
+2025,Tower Semiconductor San Antonio,Semiconductors,3290.40,3290.40,#126cb6b3
+2025,Newport Fab DBA TowerJazz,Semiconductors,4250.50,4250.50,#126cb6b3
+2025,Tokyo Electron U.S. Holdings,Semiconductors,5123.90,5123.90,#126cb6b3
+2025,Defense Technology,Defense Sprays,5297.20,5297.20,#49AE42B2
+2025,Proteng Distribution,Onboard Aerospace Fire Suppression,6723.40,5378.70,#c1801fb3
+2025,Microchip Technology,Semiconductors,7387.20,7387.20,#126cb6b3
+2025,Polar Semiconductor,Semiconductors,9151.70,9151.70,#126cb6b3
+2025,TSMC Washington (formerly Wafertech),Semiconductors,10384.50,10384.50,#126cb6b3
+2025,SkyWater Technology,Semiconductors,10463.50,10463.50,#126cb6b3
+2025,The Research Foundation for The State University of New York at NY CREATES,Semiconductors,11678.40,11678.40,#126cb6b3
+2025,Wolfspeed,Semiconductors,15779.70,12623.80,#126cb6b3
+2025,Analog Devices,Semiconductors,15998.90,15998.90,#126cb6b3
+2025,Compsys,Structural Composite Preformed Polyurethane Foam,16066.00,16066.00,#eb006ab3
+2025,Lupin,Propellants in MDIs,19031.00,19031.00,#9E5DC0B3
+2025,Micron Technology,Semiconductors,21068.20,21068.20,#126cb6b3
+2025,Aurobindo Pharma USA,Propellants in MDIs,23196.20,23196.20,#9E5DC0B3
+2025,NXP Semiconductor,Semiconductors,34081.10,34081.10,#126cb6b3
+2025,Semiconductor Components Industries DBA ON Semiconductor,Semiconductors,35794.80,35794.80,#126cb6b3
+2025,Lam Research Corp.,Semiconductors,45436.90,45436.90,#126cb6b3
+2025,Wabash National Corporation,Structural Composite Preformed Polyurethane Foam,49299.50,49299.50,#eb006ab3
+2025,Invagen Pharmaceuticals,Propellants in MDIs,59385.20,59385.20,#9E5DC0B3
+2025,Security Equipment Corporation,Defense Sprays,93229.50,93229.50,#49AE42B2
+2025,UDAP Industries,Defense Sprays,110727.80,110727.80,#49AE42B2
+2025,GlobalFoundries,Semiconductors,117767.10,117767.10,#126cb6b3
+2025,Taiwan Semiconductor Manufacturing Company Arizona Corporation (TSMC Arizona Corporation),Semiconductors,120485.40,120485.40,#126cb6b3
+2025,Texas Instruments,Semiconductors,214219.40,214219.40,#126cb6b3
+2025,Samsung Austin Semiconductor,Semiconductors,235624.80,235624.80,#126cb6b3
+2025,Armstrong Pharmaceuticals,Propellants in MDIs,237054.00,237054.00,#9E5DC0B3
+2025,Kindeva Drug Delivery,Propellants in MDIs,492000.00,492000.00,#9E5DC0B3
+2025,GlaxoSmithKline,Propellants in MDIs,507289.70,507289.70,#9E5DC0B3
+2025,Intel Corporation,Semiconductors,528200.30,528200.30,#126cb6b3
+2025,Department of Defense,Mission-critical Military End Uses,6238033.50,6238033.50,#99c750b3
