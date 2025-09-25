@@ -1,4 +1,4 @@
-﻿Year,Entity,Application,Application-Specific Allowances Allocated from Methodology in 40 CFR 84.13 (MTEVe),Available Allowances,color
+﻿Year,Entity,Application,Application-Specific Allowances Allocated from Methodology in 40 CFR 84.13 (MTEVe),"Allowances Available as of October 1, 2024 (MTEVe)",color
 2025,Hitachi High-Tech America,Semiconductors,113.00,113.00,#126cb6b3
 2025,General Electric,Semiconductors,147.70,147.70,#126cb6b3
 2025,Medtronic Tempe Campus,Semiconductors,455.10,455.10,#126cb6b3
@@ -8,7 +8,7 @@
 2025,IBM Corporation,Semiconductors,613.00,613.00,#126cb6b3
 2025,Renesas Electronics America,Semiconductors,940.10,940.10,#126cb6b3
 2025,UC San Diego,Semiconductors,940.10,940.10,#126cb6b3
-2025,ASML US2,Semiconductors,1033.80,1033.80,#126cb6b3
+2025,ASML US,Semiconductors,1033.80,1033.80,#126cb6b3
 2025,X-FAB Texas,Semiconductors,1262.50,1262.50,#126cb6b3
 2025,Diodes Incorporated,Semiconductors,1410.20,1410.20,#126cb6b3
 2025,LA Semiconductor,Semiconductors,2067.30,2067.30,#126cb6b3
