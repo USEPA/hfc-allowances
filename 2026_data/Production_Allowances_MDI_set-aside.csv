@@ -1,9 +1,9 @@
-Year,Entity,Production Allowances Allocated from Methodology in 40 CFR 84.9 and 90 FR 41676 (MTEVe),Allowances Allocated Reflecting MDI Set-Aside Distribution (MTEVe),color
-2026,Arkema,"26,394,276.40","26,514,940.50",#fe6a35
-2026,Chemours,"48,932,709.10","49,156,409.90",#544fc5
-2026,Iofina Chemical,"1,135.00","1,140.20",#6b8abc
-2026,Mexichem Fluor DBA Koura,"32,640,740.20","32,789,960.60",#00e272
-2026,Solstice Advanced Materials US (previously Honeywell International),"110,772,893.20","111,279,302.70",#2caffe
-2026,Production for export allowances,"3,000.00","3,000.00",#fbab18
-2026,Application-specific allowances,"9,776,509.10","9,776,509.10",#d568fb
-2026,Application-specific allowances: MDI Set-aside,"1,000,000.00",0.00,#00695C
+﻿Year,Entity,Production Allowances Allocated from Methodology in 40 CFR 84.9 and 90 FR 41676 (MTEVe),Allowances Allocated Reflecting MDI Set-Aside Distribution (MTEVe),color
+2026,Arkema,26394276.4,26514940.5,#fe6a35
+2026,Chemours,48932709.1,49156409.9,#544fc5
+2026,Iofina Chemical,1135,1140.2,#6b8abc
+2026,Mexichem Fluor DBA Koura,32640740.2,32789960.6,#00e272
+2026,Solstice Advanced Materials US (previously Honeywell International),110772893.2,111279302.7,#2caffe
+2026,Production for export allowances,3000,3000,#fbab18
+2026,Application-specific allowances,9776509.1,9776509.1,#d568fb
+2026,Application-specific allowances: MDI Set-aside,1000000,0,#00695C
